@@ -1,0 +1,14 @@
+C:\Users\Jerry\Documents\Unity Projects\3DSpace Shooter\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Jerry\Documents\Unity Projects\3DSpace Shooter\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Jerry\Documents\Unity Projects\3DSpace Shooter\Temp\bin\Debug\Qualcomm.Vuforia.UnityExtensions.dll
+C:\Users\Jerry\Documents\Unity Projects\3DSpace Shooter\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Jerry\Documents\Unity Projects\3DSpace Shooter\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Jerry\Documents\Unity Projects\3DSpace Shooter\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Jerry\Documents\Unity Projects\3DSpace Shooter\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Jerry\Documents\Unity Projects\3DSpace Shooter\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Jerry\Documents\Unity Projects\3DSpace Shooter\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Jerry\Documents\Unity Projects\3DSpace Shooter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Jerry\Documents\Unity Projects\3DSpace Shooter\Temp\bin\Debug\Qualcomm.Vuforia.UnityExtensions.xml
+C:\Users\Jerry\Documents\Unity Projects\3DSpace Shooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Jerry\Documents\Unity Projects\3DSpace Shooter\obj\Debug\Assembly-CSharp.dll
+C:\Users\Jerry\Documents\Unity Projects\3DSpace Shooter\obj\Debug\Assembly-CSharp.pdb
