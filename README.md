@@ -16,3 +16,5 @@ Unity Space Shooter game in Augmented Reality using Vuforia
 7. Go to File -> Build Settings -> Build to build an APK for Android
 
 We have also provided an already up-to-date APK in the Android APK folder if you want to just try out the game.
+
+Foo
